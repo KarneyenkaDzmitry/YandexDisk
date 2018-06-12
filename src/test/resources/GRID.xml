@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Grid_Nodes" parallel="tests">
+    <test name="Test1">
+        <classes>
+            <class name="YandexDiskTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="YandexDiskTest"/>
+        </classes>
+    </test>
+</suite>
